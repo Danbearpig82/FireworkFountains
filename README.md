@@ -15,3 +15,4 @@ Planned additions:
 
 Different options for the patriotic candle for multiple countries (I chose USA because that is my country and I'm making this for my Independence Day).
 Breaking a firework before lighting it should drop a firework fountain rather than an ordinary candle.
+Custom sound effects.
